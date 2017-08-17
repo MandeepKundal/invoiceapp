@@ -1,0 +1,23 @@
+.ec .form-horizontal {
+	display: block;
+	margin-top: 10vh;
+}
+.ec .form-horizontal .form-group>label {
+	text-align: left;
+	font-size: 1.5rem;
+	letter-spacing: 0.2rem;
+}
+
+.modal-dialog {
+    width: 100%;
+		height: 60vh;
+    margin: 30px auto;
+}
+.modal-lg .modal-content {
+	min-height: 100%;
+	width: 80%;
+	margin: auto;
+}
+.err {
+	color: red;
+}
